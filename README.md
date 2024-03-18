@@ -30,4 +30,4 @@
 * splidejs/splide
 
 
-<img src='./Görsel.gif'/>
+<img src="/public/Görsel.gif"/>
