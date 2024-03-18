@@ -30,4 +30,4 @@
 * splidejs/splide
 
 
-<img src="Görsel.gif"/># netflix-clone
+<img src="Görsel.gif"/>
